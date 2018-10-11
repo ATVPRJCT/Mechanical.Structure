@@ -35,7 +35,7 @@ IV. Logistique et Organisation
  1. Localité
  2. Besoins géographiques
  3. Besoins matériels
-    a. Outils
-    b. Machines
-    c.
+  a. Outils
+  b. Machines
+  c.
  4. 
