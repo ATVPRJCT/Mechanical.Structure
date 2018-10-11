@@ -39,3 +39,22 @@ IV. Logistique et Organisation
   b. Machines
   c.
  4. 
+
+III. Communication
+
+ 1. Site Web
+ 2. Logo
+ 3. Histoire
+ 4. Signature
+ 5.
+ 
+ 
+IV. Logistique et Organisation
+
+ 1. Localité
+ 2. Besoins géographiques
+ 3. Besoins matériels
+  a. Outils
+  b. Machines
+  c.
+ 4. 
